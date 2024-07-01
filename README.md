@@ -19,7 +19,7 @@
 - Estoy en búsqueda de colaborar en nuevos proyectos para sumar experiencia y aprendizaje.
 
 ## Cómo contactarme:
-- [Tu email u otra forma de contacto]
+- [facundocarranza6@gmail.com]
 
 ## Intereses:
 - 💞️ Estoy interesado en seguir aprendiendo y mejorar mis habilidades en tecnologías web modernas.
